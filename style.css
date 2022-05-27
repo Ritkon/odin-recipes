@@ -1,0 +1,10 @@
+body {
+    font-size: 2rem;
+    background-color: hsl(337, 61%, 68%);
+    color: black;
+}
+
+a { color: black }
+
+a:hover
+, a:focus-visible { color: brown;}
